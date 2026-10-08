@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git-temp\\Notes-App-Console\\Algorithmen\\Algorithmen\\Algorithmen.csproj",
+      "projectUniqueName": "C:\\git-temp\\Algorithmen\\Algorithmen\\Algorithmen.csproj",
       "projectName": "Algorithmen",
-      "projectPath": "C:\\git-temp\\Notes-App-Console\\Algorithmen\\Algorithmen\\Algorithmen.csproj",
+      "projectPath": "C:\\git-temp\\Algorithmen\\Algorithmen\\Algorithmen.csproj",
       "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "C:\\git-temp\\Notes-App-Console\\Algorithmen\\Algorithmen\\obj\\",
+      "outputPath": "C:\\git-temp\\Algorithmen\\Algorithmen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
